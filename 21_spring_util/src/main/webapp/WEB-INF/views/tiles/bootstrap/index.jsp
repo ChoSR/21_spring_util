@@ -90,10 +90,10 @@
         <div class="row property__gallery">
             <div class="col-lg-3 col-md-4 col-sm-6 mix women">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-1.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="${contextPath }/resources/bootstrap/img/product/product-1.jpg">
                         <div class="label new">New</div>
                         <ul class="product__hover">
-                            <li><a href="img/product/product-1.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="${contextPath }/resources/bootstrap/img/product/product-1.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
@@ -113,9 +113,9 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix men">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-2.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="${contextPath }/resources/bootstrap/img/product/product-2.jpg">
                         <ul class="product__hover">
-                            <li><a href="img/product/product-2.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="${contextPath }/resources/bootstrap/img/product/product-2.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
@@ -135,10 +135,10 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix accessories">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-3.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="${contextPath }/resources/bootstrap/img/product/product-3.jpg">
                         <div class="label stockout">out of stock</div>
                         <ul class="product__hover">
-                            <li><a href="img/product/product-3.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="${contextPath }/resources/bootstrap/img/product/product-3.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
@@ -158,9 +158,9 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix cosmetic">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-4.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="${contextPath }/resources/bootstrap/img/product/product-4.jpg">
                         <ul class="product__hover">
-                            <li><a href="img/product/product-4.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="${contextPath }/resources/bootstrap/img/product/product-4.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
@@ -180,9 +180,9 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix kid">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-5.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="${contextPath }/resources/bootstrap/img/product/product-5.jpg">
                         <ul class="product__hover">
-                            <li><a href="img/product/product-5.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="${contextPath }/resources/bootstrap/img/product/product-5.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
@@ -202,10 +202,10 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix women men kid accessories cosmetic">
                 <div class="product__item sale">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-6.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="${contextPath }/resources/bootstrap/img/product/product-6.jpg">
                         <div class="label sale">Sale</div>
                         <ul class="product__hover">
-                            <li><a href="img/product/product-6.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="${contextPath }/resources/bootstrap/img/product/product-6.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
@@ -225,9 +225,9 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix women men kid accessories cosmetic">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-7.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="${contextPath }/resources/bootstrap/img/product/product-7.jpg">
                         <ul class="product__hover">
-                            <li><a href="img/product/product-7.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="${contextPath }/resources/bootstrap/img/product/product-7.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
@@ -247,10 +247,10 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix women men kid accessories cosmetic">
                 <div class="product__item sale">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-8.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="${contextPath }/resources/bootstrap/img/product/product-8.jpg">
                         <div class="label">Sale</div>
                         <ul class="product__hover">
-                            <li><a href="img/product/product-8.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="${contextPath }/resources/bootstrap/img/product/product-8.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
@@ -274,7 +274,7 @@
 <!-- Product Section End -->
 
 <!-- Banner Section Begin -->
-<section class="banner set-bg" data-setbg="img/banner/banner-1.jpg">
+<section class="banner set-bg" data-setbg="${contextPath }/resources/bootstrap/img/banner/banner-1.jpg">
     <div class="container">
         <div class="row">
             <div class="col-xl-7 col-lg-8 m-auto">
@@ -494,7 +494,7 @@
                 <div class="discount__text">
                     <div class="discount__text__title">
                         <span>Discount</span>
-                        <h2>Summer 2019</h2>
+                        <h2>Summer 2022</h2>
                         <h5><span>Sale</span> 50%</h5>
                     </div>
                     <div class="discount__countdown" id="countdown-time">
@@ -565,7 +565,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-2 col-md-4 col-sm-4 p-0">
-                <div class="instagram__item set-bg" data-setbg="img/instagram/insta-1.jpg">
+                <div class="instagram__item set-bg" data-setbg="${contextPath }/resources/bootstrap/img/instagram/insta-1.jpg">
                     <div class="instagram__text">
                         <i class="fa fa-instagram"></i>
                         <a href="#">@ ashion_shop</a>
@@ -573,7 +573,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-4 p-0">
-                <div class="instagram__item set-bg" data-setbg="img/instagram/insta-2.jpg">
+                <div class="instagram__item set-bg" data-setbg="${contextPath }/resources/bootstrap/img/instagram/insta-2.jpg">
                     <div class="instagram__text">
                         <i class="fa fa-instagram"></i>
                         <a href="#">@ ashion_shop</a>
@@ -581,7 +581,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-4 p-0">
-                <div class="instagram__item set-bg" data-setbg="img/instagram/insta-3.jpg">
+                <div class="instagram__item set-bg" data-setbg="${contextPath }/resources/bootstrap/img/instagram/insta-3.jpg">
                     <div class="instagram__text">
                         <i class="fa fa-instagram"></i>
                         <a href="#">@ ashion_shop</a>
@@ -589,7 +589,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-4 p-0">
-                <div class="instagram__item set-bg" data-setbg="img/instagram/insta-4.jpg">
+                <div class="instagram__item set-bg" data-setbg="${contextPath }/resources/bootstrap/img/instagram/insta-4.jpg">
                     <div class="instagram__text">
                         <i class="fa fa-instagram"></i>
                         <a href="#">@ ashion_shop</a>
@@ -597,7 +597,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-4 p-0">
-                <div class="instagram__item set-bg" data-setbg="img/instagram/insta-5.jpg">
+                <div class="instagram__item set-bg" data-setbg="${contextPath }/resources/bootstrap/img/instagram/insta-5.jpg">
                     <div class="instagram__text">
                         <i class="fa fa-instagram"></i>
                         <a href="#">@ ashion_shop</a>
@@ -605,7 +605,7 @@
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-4 p-0">
-                <div class="instagram__item set-bg" data-setbg="img/instagram/insta-6.jpg">
+                <div class="instagram__item set-bg" data-setbg="${contextPath }/resources/bootstrap/img/instagram/insta-6.jpg">
                     <div class="instagram__text">
                         <i class="fa fa-instagram"></i>
                         <a href="#">@ ashion_shop</a>

@@ -24,4 +24,9 @@ public class BootStrapController {
 		return "/a";
 	}
 	
+	@RequestMapping(value = "/blog", method=RequestMethod.GET)
+	public String blog() {
+		return "/blog";
+	}
+	
 }
