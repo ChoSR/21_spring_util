@@ -11,24 +11,19 @@
 		var fileCnt = 1;
 		
 		$("#addFile").click(function() {
-			
 			var data = "<input type='file' name='upFile"+ fileCnt +"' />";
 			
 			fileCnt++;
 			
 			$("#fileUploadTable > tr:eq(1) > td:eq(1)").appendTo(data);
-			
 		});
 		
 		$("#removeFile").click(function() {
 						
 			$("#fileUploadTable").remove();
 			fileCnt--;
-			
 		});
-		
 	});
-	
 </script>
 <head>
 </head>
